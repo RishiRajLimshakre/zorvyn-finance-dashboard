@@ -4,7 +4,7 @@ A clean, responsive, and interactive finance dashboard built as part of the **Zo
 The project focuses on presenting financial data in a simple and intuitive way through summary cards, charts, insights, and transaction management.
 
 ## Live Demo
-[Live Demo]((https://finance-dashboard-mu-steel.vercel.app/))
+[Live Demo](https://finance-dashboard-mu-steel.vercel.app/)
 
 ## GitHub Repository
 [Source Code](https://github.com/RishiRajLimshakre/zorvyn-finance-dashboard.git)
