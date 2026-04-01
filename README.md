@@ -102,4 +102,4 @@ I chose this stack to keep the project lightweight, fast, and easy to maintain:
 
 ### 1. Clone the repository
 ```bash
-git clone (https://github.com/RishiRajLimshakre/zorvyn-finance-dashboard.git)
+git clone https://github.com/RishiRajLimshakre/zorvyn-finance-dashboard.git
